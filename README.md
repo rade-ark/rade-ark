@@ -1,8 +1,9 @@
 <h1 align="center">
-  <b>Atri Mukherjee</b>
+  <b>Atri Mukherjee aka rade-ark</b>
 </h1>
 
 Hiee I'm Atri Mukherjee, a student from Mumbai, currently living in Chennai, India.
+I love cats and the colour grey.
 
 <br>
 
