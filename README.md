@@ -29,6 +29,7 @@ class AtriMukherjee():
   def __init__(self):
     self.name = "Atri Mukherjee";
     self.username = "rade-ark";
+    self.age = "19";
     self.location = "Chennai, India";
     self.email = "atrimukherjee17@gmail.com";
     self.instagram = "@awayshark";
