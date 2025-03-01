@@ -29,6 +29,7 @@ class AtriMukherjee():
     self.name = "Atri Mukherjee";
     self.username = "rade-ark";
     self.location = "Chennai, India";
+    self.email = "atrimukherjee17@gmail.com";
     self.instagram = "@awayshark";
   
   def __str__(self):
